@@ -1,4 +1,6 @@
 ## Pikabot stack strings decoder
+## This script is based on OALABS Research
+## https://research.openanalysis.net/pikabot/yara/config/loader/2023/02/26/pikabot.html
 
 
 import ctypes
